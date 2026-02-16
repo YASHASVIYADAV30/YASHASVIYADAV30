@@ -56,14 +56,6 @@ I don't just write code—I architect intelligent systems that solve real proble
 ![Azure](https://img.shields.io/badge/Azure-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## Featured Projects
-- **Project 1** — one-line impact + tech (link)
-- **Project 2** — one-line impact + tech (link)
-- **Project 3** — one-line impact + tech (link)
-
----
 
 ## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=YASHASVIYADAV30&show_icons=true&hide_border=true&theme=radical)
