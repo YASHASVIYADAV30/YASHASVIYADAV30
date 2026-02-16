@@ -1,4 +1,5 @@
-<h1 align="left">Yashasvi Yadav</h1>
+<h1 align="left">👋 Yashasvi Yadav</h1>
+
 <p align="left"><b>AI/ML Engineer • Data Scientist • Backend Developer</b></p>
 
 <p align="left">
@@ -7,7 +8,8 @@ I don't just write code—I architect intelligent systems that solve real proble
 
 ---
 
-## About
+## 🎯 About
+
 - End-to-end ML systems: ingestion → training → evaluation → deployment
 - Backend APIs for ML/data products (FastAPI + DB)
 - Data engineering: ETL, feature pipelines, reliable data workflows
@@ -15,7 +17,8 @@ I don't just write code—I architect intelligent systems that solve real proble
 
 ---
 
-## Currently Focused On
+## 🚀 Currently Focused On
+
 - Open-source contributions (production-style PRs)
 - Scalable system design + backend architecture
 - Model optimization for real-world constraints (latency/cost/stability)
@@ -23,13 +26,15 @@ I don't just write code—I architect intelligent systems that solve real proble
 
 ---
 
-## Socials
+## 🤝 Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yashasviyadav458)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](YOUR_TWITTER_URL)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashasviydv30@gmail.com)
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-0B1F3A?style=for-the-badge&logo=python&logoColor=white)
@@ -46,8 +51,10 @@ I don't just write code—I architect intelligent systems that solve real proble
 
 ### Backend / DB
 ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white)
 
 ### DevOps / Tools
 ![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=white)
@@ -55,9 +62,22 @@ I don't just write code—I architect intelligent systems that solve real proble
 ![AWS](https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-0F172A?style=for-the-badge&logo=anaconda&logoColor=white)
 
+---
 
-## GitHub Stats
+## 📊 GitHub Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=YASHASVIYADAV30&show_icons=true&hide_border=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YASHASVIYADAV30&layout=compact&hide_border=true&theme=radical)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YASHASVIYADAV30&hide_border=true&theme=radical)
+
+---
+
+<div align="center">
+
+**"Code with purpose. Ship with confidence."**
+
+</div>
