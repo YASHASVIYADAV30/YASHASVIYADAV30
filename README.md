@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Yashasvi Yadav 👋</h1>
 
 <p align="center">
-  Computer Science Student | Aspiring AI Engineer | Building Consistently
+  Computer Science Student • Exploring Artificial Intelligence & Machine Learning • Building with Purpose
 </p>
 
 ---
 
-## 📌 About Me
+## 🧠 About Me
 
-- 🎓 CS student focused on building strong fundamentals.
-- 🌱 Currently learning **Python, Data Structures, and Git**.
-- 🚀 Working toward contributing to open-source projects.
-- 💡 Interested in **Artificial Intelligence and problem solving**.
-- 📈 Committed to improving every single day.
+- 🎓 CS undergraduate building strong foundations in programming.
+- 🤖 Deeply interested in **Artificial Intelligence & Machine Learning**.
+- 📊 Currently learning **Python, Data Structures, and ML fundamentals**.
+- 🔍 Curious about how intelligent systems work in real-world applications.
+- 🚀 Focused on consistency, clarity, and clean code.
 
 ---
 
@@ -29,12 +29,12 @@
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
