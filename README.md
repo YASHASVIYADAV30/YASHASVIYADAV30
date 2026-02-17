@@ -28,34 +28,4 @@ class Yashasvi:
         
     def current_focus(self):
         return ["Building AI-powered tools", "DSA practice", "Open source contributions"]
-🛠️ Tech Stack
-<table> <tr> <td><b>Languages</b></td> <td>Python, C++, Java, SQL, JavaScript</td> </tr> <tr> <td><b>ML/Data</b></td> <td>PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy</td> </tr> <tr> <td><b>Backend</b></td> <td>FastAPI, Flask, Node.js, MySQL, SQLite</td> </tr> <tr> <td><b>Tools</b></td> <td>Git, Docker, AWS, VS Code, Jupyter</td> </tr> </table>
-📊 GitHub Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YASHASVIYADAV30&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASHASVIYADAV30&theme=tokyonight&hide_border=true" width="48%"/></div><div align="center">
-Top Languages
 
-</div>
-🎯 What I'm Up To
-🔭 Building AI-powered automation tools
-🌱 Learning system design & MLOps
-💻 Solving DSA problems daily
-🌍 Contributing to open-source projects
-🤝 Open for collaborations on interesting projects
-🤝 Let's Connect
-I'm always open to interesting conversations and collaboration opportunities!
-
-<div align="center">
-LinkedIn
-Twitter
-Kaggle
-Email
-
-</div>
-<div align="center">
-Profile Views
-
-"Code with purpose. Ship with confidence."
-
-Check out my pinned repositories below! 👇
-
-</div> ```
