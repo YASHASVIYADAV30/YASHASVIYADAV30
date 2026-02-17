@@ -19,13 +19,55 @@
 
 I'm an engineering student passionate about building end-to-end ML systems, backend APIs, and contributing to open-source. I focus on writing clean, scalable code that actually works in production.
 
-```python
-class Yashasvi:
-    def __init__(self):
-        self.role = "AI/ML Engineer & Backend Developer"
-        self.location = "India 🇮🇳"
-        self.interests = ["Machine Learning", "System Design", "Open Source"]
-        
-    def current_focus(self):
-        return ["Building AI-powered tools", "DSA practice", "Open source contributions"]
+---
 
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, C++, Java, SQL, JavaScript |
+| **ML/Data** | PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy |
+| **Backend** | FastAPI, Flask, Node.js, MySQL, SQLite |
+| **Tools** | Git, Docker, AWS, VS Code, Jupyter |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YASHASVIYADAV30&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YASHASVIYADAV30&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+---
+
+## 🎯 What I'm Up To
+
+- 🔭 Building **AI-powered automation tools**
+- 🌱 Learning **system design** & **MLOps**
+- 💻 Solving **DSA problems** daily
+- 🌍 Contributing to **open-source** projects
+- 🤝 Open for **collaborations** on interesting projects
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashasviyadav458)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YashasviYa63455)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yashasviyadav30)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashasviydv30@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code with purpose. Ship with confidence."*
+
+**Check out my pinned repositories below! 👇**
+
+</div>
