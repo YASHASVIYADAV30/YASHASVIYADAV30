@@ -30,7 +30,3 @@ Building AI/ML systems and working on cloud security infrastructure. Interested 
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-00897B?style=for-the-badge&logoColor=white)
-
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashasviyadav30&theme=react-dark&hide_border=true&area=true" width="100%"/>
