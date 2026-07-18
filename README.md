@@ -1,31 +1,14 @@
-# Hi, I'm Yashasvi Yadav 👋
+# Hi, I'm Yashasvi 👋
 
-Open-source contributor working on **software supply-chain security** and **cloud infrastructure tooling** — across the stack, from backend services to frontend interfaces — with a growing focus on AI/ML systems.
+## Currently:
+- LFX Mentee @ Repository Service for TUF (RSTUF) — building a full-stack TUF metadata visualizer
 
-- 🔭 **Currently:** LFX Mentee @ [Repository Service for TUF (RSTUF)](https://github.com/repository-service-tuf/repository-service-tuf) — building a full-stack TUF metadata visualizer (TypeScript frontend + backend integration with RSTUF services), alongside functional-test automation and Helm deployment tooling
-- ☁️ Contributor to **[Cartography](https://github.com/cartography-cncf/cartography)** (CNCF) — added AWS CloudFormation Stack ingestion and hardened the Tailscale integration with retry/backoff
-- 💥 Contributor to **[Krkn](https://github.com/krkn-chaos/krkn)** (CNCF chaos engineering) — added GCP zone-outage rollback support
-- 🌱 Learning in public: building AI/ML fundamentals from classical algorithms to deep learning
+## Past Contributions:
+- Cartography (CNCF) — AWS CloudFormation Stack support, Tailscale retry/backoff (merged)
+- Krkn (CNCF) — GCP zone-outage rollback support (merged)
 
-## Selected contributions
+# Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-| Project | Contribution |
-|---|---|
-| [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) | `feat(aws)`: AWS CloudFormation Stack support — new asset ingestion module (merged) |
-| [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) | `fix(tailscale)`: HTTP retry with exponential backoff for transient API errors (merged) |
-| [krkn-chaos/krkn](https://github.com/krkn-chaos/krkn) | `feat`: GCP zone-outage rollback support (merged) |
-| [repository-service-tuf](https://github.com/repository-service-tuf/repository-service-tuf-worker) | Functional-test workflow triggered on PR approval (in review) |
-
-## Projects
-
-- **[Omnibox](https://github.com/yashasviyadav30/Omnibox)** — AI-powered CLI utility with voice support
-- **[ai-forge-hub](https://github.com/yashasviyadav30/ai-forge-hub)** — hands-on AI engineering, from classical algorithms to modern deep learning
-- **[rstuf-visualizer-prototype](https://github.com/yashasviyadav30/rstuf-visualizer-prototype)** — full-stack TUF metadata visualizer for RSTUF: interactive frontend (TypeScript) backed by RSTUF's API
-
-## Tools I work with
-
-`Python` `FastAPI` `Neo4j` `Docker` `Kubernetes` `Helm` `AWS` `GCP` `PyTorch` `scikit-learn` `TypeScript` `pytest`
-
-## Reach me
-
-[LinkedIn](https://www.linkedin.com/in/yashasviyadav458) · yashasviydv30@gmail.com
+## Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashasviyadav458) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashasviydv30@gmail.com)
