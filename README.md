@@ -30,7 +30,7 @@ I'm building the **TUF metadata visualizer** that answers those questions, and l
 | **cartography** · CNCF | HTTP retry with backoff for transient Tailscale failures | [#2463](https://github.com/cartography-cncf/cartography/pull/2463) |
 | **krkn-chaos/website** | Document GCP zone outage in supported rollback scenarios | [#249](https://github.com/krkn-chaos/website/pull/249) |
 
-**In review:** [RSTUF worker #880](https://github.com/repository-service-tuf/repository-service-tuf-worker/pull/880) — run functional tests when a PR is approved · [kubeedge/ianvs #374](https://github.com/kubeedge/ianvs/pull/374) — quantization support for the vLLM backend, from a bug I reported in [#372](https://github.com/kubeedge/ianvs/issues/372)
+[**All my pull requests, live →**](https://github.com/pulls?q=is%3Apr+author%3Ayashasviyadav30+sort%3Aupdated-desc) · [**issues →**](https://github.com/issues?q=is%3Aissue+author%3Ayashasviyadav30)
 
 ---
 
